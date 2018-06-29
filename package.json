@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Testing Mocha testing suite with express",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "mocha",
+    "node",
+    "express",
+    "testing",
+    "tdd"
+  ],
+  "author": "Michael Fryer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.0"
+  },
+  "devDependencies": {
+    "supertest": "^3.1.0"
+  }
+}
